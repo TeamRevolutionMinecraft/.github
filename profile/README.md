@@ -4,3 +4,5 @@ This is the archive of code for a Minecraft server that some friends and I plann
 Unfortunately, it failed in execution due to a lag of time
 
 Maybe some day we can reactivate the Idea behind the project
+
+Keep in mind most Repos are in a unfinished state.
